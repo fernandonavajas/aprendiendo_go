@@ -1,0 +1,35 @@
+{ 
+    "rutCliente": "126415265", 
+    "nombresCliente": "PABLO 126415265", 
+    "apellidoPaterno": "NERUDA", 
+    "apellidoMaterno": "NERUDA", 
+    "codNacionalidad": "160", 
+    "glsNacionalidad": "NACIONALIDAD CHILENA", 
+    "codEstadoCivil": "1", 
+    "glsEstadoCivil": "Casado", 
+    "telefono": "985293997", 
+    "email": "xxx@bice.cl", 
+    "facta": "1", 
+    "crs": "3", 
+    "empleador": { 
+        "nombreEmpleador": "BCO BICE", 
+        "rutEmpleador": "97080000K" 
+    }, 
+    "conyuge": { 
+        "rut": "138895637", 
+        "fullName": "TORRES SOTO SILVIA VERONICA", 
+        "regimeConyugal": "97080000K" 
+    }, 
+    "direccion": { 
+        "comuna": "PEÑALOLEN", 
+        "ciudad": "SANTIAGO", 
+        "region": "REGION METROPOLITANA", 
+        "glosa": "Teatinos PART 220" 
+    }, 
+    "ejecutivo": { 
+        "nombre": "ERNESTO ROJAS SEVILLA", 
+        "mail": "ernesto.rojas@bice.cl", 
+        "telefono": "226922491", 
+        "rolNumber": "15530" 
+    } 
+}
